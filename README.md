@@ -9,4 +9,4 @@ brew tap dctmfoo/simpalarm
 brew install --cask simpalarm
 ```
 
-The installable cask will be published after the first signed and notarized SimpAlarm release is uploaded.
+The `simpalarm` cask is published from the signed and notarized GitHub releases in `dctmfoo/simpalarm`.
